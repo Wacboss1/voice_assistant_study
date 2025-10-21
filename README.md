@@ -21,5 +21,39 @@ Voice assistance could replace screens because of the following:
     - both of which are be occupied with driving
 - Intuitive, just like communicating to the passenger
 
+## Potential Implementations
+
+- [LiveKit](https://www.youtube.com/watch?v=Ew7fOQpkKBw&t=3s)
+- OpenVoice OS
+- [Rhaspy](https://www.youtube.com/watch?v=XvbVePuP7NY)
+
+## Learnings
+
+1. 5 major parts of a voice assistant
+
+    ASR
+    : Automatic Speech Recongnition
+
+    NLU
+    : Natural Language Understanding
+
+    DM
+    : Dialogue Managment
+
+    TTS
+    : Text-to-Speech
+
+    WWD
+    : Wake Word Detection
+
 ## Important references
 - [The BEST in car voice command assistant product from Xpeng P7](https://www.youtube.com/watch?v=TJiyaIapab0)
+    - This video shows a good example of what a voice assitant could be. Standout features include
+        - Multiple commands per wake
+        - Anything that is on the screen can be done using voice
+        - A simple confirmations
+            - "Ok"
+            - "A/C On"
+        - User can interupt at any time
+        - Buffering commands
+        - Context Aware
